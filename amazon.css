@@ -1,0 +1,170 @@
+*{
+    box-sizing: border-box;
+}
+div {
+    height: 550px;
+    margin: 1px;
+}
+.row1{
+    border: solid 2px red;
+    height: 40px;
+    background-color: black;
+}
+.row2{
+    border: solid 2px red;
+    height: 35px;
+    background-color: black;
+}
+.col1{
+    border: solid 2px blue;
+    float: left;
+    height: 35px;
+    width: 8%;
+}
+.col10{
+    border: solid 2px blue;
+    float: left;
+    height: 35px;
+    width: 5%;
+}
+.col2 {
+    border: solid 2px blue;
+    float: left;
+    height: 35px;
+    width: 58%;
+}
+.col3 {
+    border: solid 2px blue;
+    float: left;
+    height: 35px;
+    width: 7%;
+}
+.col4{
+    float: left;
+    height: 30px;
+    width: 3%;
+}
+.col5{
+    float: left;
+    height: 30px;
+    width: 6%;
+}
+.col6{
+    float: left;
+    height: 30px;
+    width: 9%;
+}
+.col7{
+    float: left;
+    height: 30px;
+    width: 5%;
+}
+.col8{
+    float: right;
+    height: 30px;
+    width: 13%;
+}    
+.row3{
+    height: 244.6px;
+    width: 1190px;
+    margin: auto;
+    margin-top:10px;
+    margin-bottom: 5px;
+}
+.q {
+    height: 240px;
+    width: 1194px;
+}
+.row4{
+    height: 250px;
+    width: 1200px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.cola{
+    float: left;
+    height: 290px;
+    width: 285px;
+    margin: 7.5px;
+}
+.w {
+    height: 290px;
+    width: 288px;
+    margin-bottom: 500px;
+    margin-right: 100px;
+}
+.e {
+    height: 215px;
+    width: 1180px;
+    margin-left: 8.9px;
+    margin-right: 10px;
+    margin-top: 9px;
+}
+.pu {
+    height:30px;
+    width: 100%;
+    margin-top:6px;
+}
+.ab {
+    font-size: 15px;
+    color:white;
+    text-align: center;
+    margin: auto;
+    margin-left:18px;
+    margin-top:4px;
+}
+.ac{
+    font-size:15px;   
+    color:white;
+    text-align: center;
+    margin: auto;
+    margin-top: 4px;
+}
+.ad {
+    font-size:15px;
+    color:white;
+    text-align: center;
+    margin: auto;
+    margin-top:4px;
+}
+.ae {
+    font-size:15px;
+    color:white;
+    text-align: center;
+    margin: auto;
+    margin-top:4px;
+}
+input{ 
+    margin-left:1px;
+    width: 80%;
+    height:100%;
+}
+.op {
+    color:white;
+    font-size: 12px;
+    margin: auto;
+    text-align: center;
+}
+.cv {
+    color:white;
+    font-size: 12px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
